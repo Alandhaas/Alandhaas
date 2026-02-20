@@ -1,6 +1,5 @@
 ## Software Engineer
 
-<details open>
 <summary><h3 align="left">Languages</h3></summary>
 <p>
   <img src="https://skillicons.dev/icons?i=java,kotlin,go,python,cs,js" />
@@ -24,4 +23,3 @@
 <p>
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn" />
 </p>
-</details>
